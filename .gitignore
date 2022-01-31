@@ -1,0 +1,8 @@
+node_modules/
+
+# ENVIRONMENT
+.env.development
+.env.production
+
+# TODO
+todo
